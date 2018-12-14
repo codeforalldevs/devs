@@ -40,7 +40,13 @@ const NavBar = ({ toggleNavbar, isActive }) => (
               About
             </Link>
             <Link className="navbar-item" to="/pricing">
-              Pricing
+              How it works
+            </Link>
+            <Link className="navbar-item" to="/about">
+              Why us?
+            </Link>
+            <Link className="navbar-item" to="/blog">
+              Success stories
             </Link>
             <Link className="navbar-item" to="/blog">
               Blog
@@ -49,7 +55,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
               <div className="field is-grouped">
                 <p className="control">
                   <Link className="button is-primary is-outlined" to="/contact">
-                    Login
+                    Login / Signup
                   </Link>
                 </p>
               </div>
