@@ -1,5 +1,5 @@
 >The content of this file is taken from "JacksonBates/fcc-git-nomic CONTRIBUTING.md"
- You find this repo on this link: "https://github.com/JacksonBates/fcc-git-nomic".
+ You can find this repo on this link: "https://github.com/JacksonBates/fcc-git-nomic".
  It's modified to suits our project
 
 
